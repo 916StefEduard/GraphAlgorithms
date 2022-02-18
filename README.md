@@ -7,4 +7,6 @@ Graph Application Involving some of the Most Famous Graph Algorithms.
 the inbound/outbound edges of a given vertex.
 3. Reading and writing the graph construction to a file and printing the graph in its [start,end] vertex format.
 4. And a couple that are more advanced like finding the minimum cost walk using a the adjacency matrix,
-constructing the minimum spanning tree using the Kruskal's algorithm or the minimum cost Hamiltonian graph.
+constructing the minimum spanning tree using the Kruskal's algorithm 
+5. Taking a look to the minimum cost Hamiltonian graph problem which is a P vs NP problem.
+6. Also, one interesting feature of the program is the random graph generator.
