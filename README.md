@@ -10,4 +10,5 @@ The inbound and outbound edges of a given vertex
 Constructing the minimum spanning tree using the Kruskal's algorithm
 5. Taking a look at the minimum cost Hamiltonian graph problem, which is a P vs NP problem,
 6. Also, one interesting feature of the program is the random graph generator, which is cycle-proof.
-Very large, large, and small graph samples are included.
+
+Very large, large, and small graph samples are also included.
