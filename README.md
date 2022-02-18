@@ -1,6 +1,6 @@
 # GraphAlgorithms
 
-Graph Application Involving some of the Most Famous Graph Algorithms Like DFS,BFS,Dijkstra or Prime Algorithm.
+Graph Application Involving some of the Most Famous Graph Algorithms.
 
 Data is read from a file and a graph is created and we have a console menu with about 20 applications on that graph.
 Some basic ones like the indegree or outdegree of a given vertex, adding/removing a vertex from the graph or listing
